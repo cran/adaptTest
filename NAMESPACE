@@ -7,7 +7,9 @@
 ## Hint: Using only one function or class per line allows easy sorting
 ## in most editors, and you can comment out single functions, e.g.,
 ## for debugging
-
+import(lattice)
+import(graphics)
+import(stats)
 export(
   eq,
   ne,

@@ -66,7 +66,8 @@ tsT(typ="b", a=0.1, a1=0.05, a0=0.5)
 tsT(typ="b", a=0.1, a2=0.104877, a0=0.5)
 tsT(typ="b", a=0.1, a2=tsT(typ="b", a=0.1, a1=0.05, a0=0.5), a0=0.5)
 
-## An example of non-uniqueness: the maximal alpha1 is returned; any smaller value would also be valid
+## An example of non-uniqueness: the maximal alpha1 is returned; any
+##  smaller value would also be valid
 alpha  <- 0.05
 alpha0 <- 1
 alpha2 <- 0.05
