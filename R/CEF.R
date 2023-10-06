@@ -6,7 +6,7 @@ function (typ=NA, fun=NA, dis=NA, a2=NA, c=NA, p1=NA, p2=p1) {
       }
     else {
       if (is.na(a2) && !is.na(c) && is.na(p1) && is.na(p2)) {
-        result <- c.cef(typ,c)
+        result <- C.cef(typ,c)
         }
       else {
         if (is.na(a2) && is.na(c) && !is.na(p1) && !is.na(p2)) {

@@ -1,3 +1,3 @@
-`c.cef` <-
-function (typ,c)        switch (typ, b = c.cef.b(c),           l = c.cef.l(c),           v = c.cef.v(c),           h = c.cef.h(c)           )
+`C.cef` <-
+function (typ,c)        switch (typ, b = C.cef.b(c),           l = C.cef.l(c),           v = C.cef.v(c),           h = C.cef.h(c)           )
 

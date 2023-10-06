@@ -12,8 +12,8 @@ The functions defined in this program serve for implementing adaptive two-stage 
 \tabular{ll}{
 Package: \tab adaptTest\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2009-10-14\cr
+Version: \tab 1.2\cr
+Date: \tab 2023-10-05\cr
 License: \tab GPL (version 2 or later)\cr
 LazyLoad: \tab yes\cr
 }
@@ -31,7 +31,7 @@ The functions \code{\link{a1Table}}, \code{\link{getpar}}, \code{\link{parconv}}
 \author{
 Marc Vandemeulebroecke
 
-Maintainer: Marc Vandemeulebroecke <marc.vandemeulebroecke(at)novartis.com>
+Maintainer: Marc Vandemeulebroecke <vandemem(at)gmx.de>
 }
 \note{
   Note that a family of conditional error functions can be parameterized in two alternative ways: more "traditionally" by some parameter \eqn{c} that, in turn, depends on the local level \eqn{\alpha_2}{alpha2} of the test after the second stage, or - perhaps more conveniently - by \eqn{\alpha_2}{alpha2} itself.
